@@ -18,5 +18,6 @@ This project requires the following setup:
 1) clone this repo into your local development.
 2) open up the command-line interface (CLI) and get into the "Hello" folder directory
 3) type the following command in the CLI
+
     python3 hello.py
 
